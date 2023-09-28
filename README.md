@@ -1,0 +1,2 @@
+# Ubunturepo
+setting up GIT
